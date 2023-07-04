@@ -1,6 +1,7 @@
 const withCSS = require("@zeit/next-css");
 const withImages = require("next-images");
 const nextTranslate = require("next-translate");
+webpack5: false;
 
 module.exports = {
   reactStrictMode: true,
